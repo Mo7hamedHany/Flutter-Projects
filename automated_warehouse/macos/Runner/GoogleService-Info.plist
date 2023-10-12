@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>518798262441-pr87bpegadql5u86ehoe22f324ah4up4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.518798262441-pr87bpegadql5u86ehoe22f324ah4up4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCr7XvoncuHJaMpPXDFmtjaHTX3MsAxO_w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>518798262441</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.automatedWarehouse</string>
+	<key>PROJECT_ID</key>
+	<string>automated-warehouse</string>
+	<key>STORAGE_BUCKET</key>
+	<string>automated-warehouse.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:518798262441:ios:a4d33fd002ad3fd14769b8</string>
+	<key>DATABASE_URL</key>
+	<string>https://automated-warehouse-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

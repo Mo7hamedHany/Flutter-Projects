@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518798262441",
+    "firebase_url": "https://automated-warehouse-default-rtdb.firebaseio.com",
+    "project_id": "automated-warehouse",
+    "storage_bucket": "automated-warehouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518798262441:android:5ec9aa799503e2894769b8",
+        "android_client_info": {
+          "package_name": "com.example.automated_warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518798262441-maos7hjmmg9qj1vuup1sgputdu9qf2l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZjtDPj51HpXsCTNECrWVfUgDfidwO7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518798262441-maos7hjmmg9qj1vuup1sgputdu9qf2l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
