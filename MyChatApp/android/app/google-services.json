@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847774021621",
+    "project_id": "whochatt-4867e",
+    "storage_bucket": "whochatt-4867e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847774021621:android:7ee1577217596596b652bc",
+        "android_client_info": {
+          "package_name": "com.example.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847774021621-7f9o2s0ucgl14e5srccd857udgie6fvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBii3Y49up5HhEChzsHDZDaeVei8cBfAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847774021621-7f9o2s0ucgl14e5srccd857udgie6fvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
