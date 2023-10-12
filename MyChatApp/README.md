@@ -1,4 +1,4 @@
-# mychatapp
+# WhoChat
 
 A new Flutter project.
 
