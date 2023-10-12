@@ -1,6 +1,6 @@
 # automated_warehouse
 
-A new Flutter project.
+This app is a part of my graduation project in which there were  automated Forklift, Pallet shuttle and this mobile app which provide the database of the warehouse and provide a type of a secondry control for both forklift and pallet shuttle.
 
 ## Getting Started
 
